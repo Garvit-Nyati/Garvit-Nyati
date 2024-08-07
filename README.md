@@ -7,22 +7,22 @@
 
 ## 🚀 Projects
 
-### [Football Analysis System](https://github.com/Garvit-Nyati/football-analysis-system)
+### [Football Analysis System](https://github.com/Garvit-Nyati/Football-Analysis)
 - **Duration**: May 2024 - June 2024
 - **Description**: A computer vision project for live tracking players' speed, distance traveled, and ball captured ratio in football matches.
 - **Tech Stack**: YOLOv8x, Ultralytics, KMeans clustering, Optical Flow, OpenCV
 
-### [News Research Chatbot for Financial Analysis](https://github.com/Garvit-Nyati/news-research-chatbot)
+### [News Research Chatbot for Financial Analysis](https://github.com/Garvit-Nyati/Financial-Analysis-Chatbot)
 - **Duration**: April 2024 - May 2024
 - **Description**: A chatbot utilizing Large Language Models to extract insights from news articles and answer financial queries.
 - **Tech Stack**: Langchain, FAISS, OpenAI API, Streamlit
 
-### [Sentiment Analysis on IMDB Movie Reviews](https://github.com/Garvit-Nyati/sentiment-analysis-imdb)
+### [Sentiment Analysis on IMDB Movie Reviews](https://github.com/Garvit-Nyati/IMDB-reviews-Sentiment-Analysis)
 - **Duration**: January 2024 - February 2024
 - **Description**: A Natural Language Processing project that interprets textual data to predict sentiment using LSTM neural networks.
 - **Tech Stack**: Python, Tensorflow, Kaggle dataset
 
-### [Customer Segmentation Model](https://github.com/Garvit-Nyati/customer-segmentation)
+### [Customer Segmentation Model](https://github.com/Garvit-Nyati/Customer-Segmentation-using-KMeans-)
 - **Duration**: October 2023
 - **Description**: A machine learning project to segment customers based on annual income and spending score for targeted marketing.
 - **Tech Stack**: Python, NumPy, Pandas, Matplotlib, scikit-learn
